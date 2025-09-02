@@ -1,5 +1,5 @@
-**Instruction for Tone and Style**
-Write in the style defined by the following guide. Apply it consistently across the entire text.
+**Instructions**
+Write in the style and tone defined by the following guide. Apply it consistently across the entire text.
 
 **Authorial Tone and Style Guide**
 
